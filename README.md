@@ -1,0 +1,2 @@
+# study_aid_admin
+administrator_dashboard
